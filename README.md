@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/YourCustomBannerHere.png" alt="Banner" width="100%" height="auto">
 </p>
 
-<h1 align="center">Hi 👋, I'm Akshat</h1>
+<h1 align="center">Hi 👋, I'm Stickman</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Based in Lucknow, India</h3>
 
 ---
