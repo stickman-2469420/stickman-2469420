@@ -51,6 +51,3 @@
   <img src="https://komarev.com/ghpvc/?username=stickman-2469420&label=Stalkers%20Detected&color=ff0055&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/stickman-2469420/stickman-2469420/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
